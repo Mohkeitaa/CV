@@ -1,0 +1,18 @@
+body{
+    background-color:#ecfcff;
+  }
+  hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-width:5px;
+    border-color: grey;
+    width: 5%;
+  }
+h1 {
+  color: #3c3d47;
+  font-family:Alex Brush;
+  font-weight:lighter;
+}
+h3{
+  color: #3c3d47;
+}
