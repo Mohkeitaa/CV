@@ -1,5 +1,6 @@
 body{
     background-color:#ecfcff;
+    font-size: inherit;
   }
   hr {
     border-style:none;
